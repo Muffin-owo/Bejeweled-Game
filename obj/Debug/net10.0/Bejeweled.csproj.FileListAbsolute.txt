@@ -1,0 +1,14 @@
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\bin\Debug\net10.0\Bejeweled.exe
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\bin\Debug\net10.0\Bejeweled.deps.json
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\bin\Debug\net10.0\Bejeweled.runtimeconfig.json
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\bin\Debug\net10.0\Bejeweled.dll
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\bin\Debug\net10.0\Bejeweled.pdb
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.AssemblyInfoInputs.cache
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.AssemblyInfo.cs
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.csproj.CoreCompileInputs.cache
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.dll
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\refint\Bejeweled.dll
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.pdb
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\Bejeweled.genruntimeconfig.cache
+C:\Learning\C#\CSC350H\Bewjewed\Bejeweled\obj\Debug\net10.0\ref\Bejeweled.dll
